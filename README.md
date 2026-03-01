@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 สวัสดีครับ! ผม Jatuwit (จตุวิทย์)
+# 👋 สวัสดีครับ! ผมจตุวิทย์ พิทักษ์ด่านสกุล (นัท)
 
 ### Mid-Senior Full Stack Developer | 7+ Years Experience
 
