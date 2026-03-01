@@ -20,9 +20,24 @@ Full Stack Developer with 7 years of experience in architecting scalable systems
 
 ---
 
+### 💼 Work Experience
+
+- **Senior Full Stack Developer (Outsource)** @ Bedrock Analytics · Dec 2024 - Present  
+  No-Code Map Platform (Mapbox), ลด API response time 85% (8,000ms → 1,200ms)
+
+- **Senior Full Stack Developer** @ Avalant · Jan 2021 - Nov 2024  
+  Technical consultant SCG, Mentored 2 junior developers
+
+- **Full Stack Developer** @ Avalant · Dec 2019 - Jan 2021  
+  Frontend architecture "Zero" (No-code), "PromptX" (AI interface)
+
+- **Java Developer** @ Godygo · Aug 2018 - Feb 2019  
+  Backend Godygo logistics app, APIs for Android
+
+---
+
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=nutjatuwit0808&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nutjatuwit0808&theme=tokyonight&hide_border=true" width="400"/>
 
 ---
@@ -62,13 +77,7 @@ RAG • k6 • n8n • Supabase
 
 ### 📈 Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nutjatuwit0808&layout=compact&theme=tokyonight&hide_border=true" width="350"/>
-
----
-
-### 🐍 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/nutjatuwit0808/nutjatuwit0808/output/github-contribution-grid-snake.svg)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
