@@ -84,7 +84,6 @@ RAG • k6 • n8n • Supabase
 ### 📫 ติดต่อผม
 
 - 📧 **Email:** [nutjatuwit.dev@gmail.com](mailto:nutjatuwit.dev@gmail.com)
-- 📱 **Tel:** 095-228-2690
 - 🎓 **Education:** B.Sc. Software Engineering, Prince of Songkla University (Phuket)
 
 </div>
